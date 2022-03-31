@@ -1,0 +1,20 @@
+*{
+  background-color: rgb(163, 151, 151);
+}
+h1 {
+  background-color: aquamarine;
+  font-size: 5rem;
+}
+
+h1,h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.weather-items{
+  background-color: rgb(240, 249, 255);
+  width: 300px;
+  height: 1000px;
+  align-content: center;
+  
+}
